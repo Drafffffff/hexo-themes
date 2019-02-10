@@ -1,7 +1,6 @@
 #----------------------------------
 # Header
 #
-
 menu:
   Home: /
   Archive: /archives
@@ -13,9 +12,9 @@ rss: /atom.xml
 #
 
 social:
-  GitHub: http://github.com/cheng-kang
-  Weibo: http://www.weibo.com/progrant
-  Twitter: https://twitter.com/ScotlAnt
+  GitHub: https://github.com/Drafffffff
+  Weibo: https://weibo.com/u/6863939296?is_hot=1
+  Twitter: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyODk3NzQyOQ==#wechat_redirect
   LinkedIn: 
 
 #----------------------------------
@@ -23,7 +22,7 @@ social:
 #
 
 search_title: Search
-search_subtitle: Find out if your question is answered here
+search_subtitle: Find out the treasure.
 search_placeholder: Enter Keyword
 
 #----------------------------------
@@ -53,7 +52,7 @@ author_page:
 
 home_title: Latest List
 archive_title: Archive
-article_breadcrumb: Q&A
+article_breadcrumb: ITEM
 page_breadcrumb: PAGE
 
 favicon: /favicon.png
