@@ -58,3 +58,6 @@ page_breadcrumb: PAGE
 favicon: /favicon.png
 
 #----------------------------------
+mathjax:
+  enable: true
+  per_page: true
